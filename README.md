@@ -7,7 +7,7 @@ or
 - `!kaggle datasets download -d mlg-ulb/creditcardfraud`
 
 # Problem and Goals
-Our goal is to implement 3 different machine learning models in order to
+Our goal is to implement 2 or more different machine learning models in order to
 classify, to the highest possible degree of accuracy, credit card fraud from a
 dataset gathered in Europe in 2 days in September 2013. After initial data
 exploration, we knew we would implement a logistic regression model, a k-means
