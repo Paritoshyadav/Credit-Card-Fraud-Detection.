@@ -1,6 +1,11 @@
 # Credit-Card-Fraud-Detection.
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
+# How to get Dataset
+you can find Dataset https://www.kaggle.com/mlg-ulb/creditcardfraud
+or
+- `!kaggle datasets download -d mlg-ulb/creditcardfraud`
+
 # Problem and Goals
 Our goal is to implement 3 different machine learning models in order to
 classify, to the highest possible degree of accuracy, credit card fraud from a
